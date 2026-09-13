@@ -1,0 +1,8 @@
+{
+  "name": "fde-career-command-center",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^5.19.1"
+  }
+}
